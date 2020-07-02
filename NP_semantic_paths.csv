@@ -1,0 +1,1030 @@
+electronic data processing,entity,physical_entity,process,processing,data_processing,automatic_data_processing,electronic_data_processing
+investigative journalism,entity,physical_entity,object,whole,artifact,instrumentality,medium,print_media,journalism
+research and development,entity,abstraction,psychological_feature,event,act,action,change,change_of_state,improvement,development
+artificial intelligence,entity,abstraction,psychological_feature,cognition,content,knowledge_domain,discipline,engineering,computer_science,artificial_intelligence
+International Labor Day,entity,abstraction,measure,fundamental_quantity,time_period,calendar_day,day,holiday,legal_holiday,labor_day
+information technology,entity,abstraction,psychological_feature,cognition,content,knowledge_domain,discipline,engineering,information_technology
+public transportation,entity,physical_entity,object,whole,artifact,facility,transportation_system
+third-party insurance,entity,abstraction,relation,possession,assets,security,insurance
+freedom of the press,entity,abstraction,psychological_feature,cognition,content,idea,concept,abstraction,right,human_right,civil_right,freedom_of_the_press
+juvenile delinquency,entity,abstraction,psychological_feature,event,act,activity,wrongdoing,misbehavior,delinquency
+monosodium glutamate,entity,physical_entity,matter,substance,food,foodstuff,ingredient,flavorer,monosodium_glutamate
+secondary importance,entity,abstraction,attribute,quality,worth,value,importance
+corporal punishment,entity,abstraction,psychological_feature,event,act,group_action,social_control,punishment,corporal_punishment
+corporal punishment,entity,abstraction,psychological_feature,event,group_action,social_control,punishment,corporal_punishment
+diplomatic immunity,entity,abstraction,attribute,state,condition,unsusceptibility,exemption,diplomatic_immunity
+genetic engineering,entity,abstraction,psychological_feature,cognition,content,knowledge_domain,discipline,science,natural_science,life_science,biology,molecular_biology,biotechnology,genetic_engineering
+information science,entity,abstraction,psychological_feature,cognition,content,knowledge_domain,discipline,science,information_science
+interior decoration,entity,physical_entity,object,whole,artifact,decoration,interior_decoration
+liability insurance,entity,abstraction,relation,possession,assets,security,insurance,liability_insurance
+reinforced concrete,entity,physical_entity,object,whole,artifact,building_material,concrete,reinforced_concrete
+reinforced concrete,entity,physical_entity,object,whole,artifact,paving,concrete,reinforced_concrete
+secondary education,entity,abstraction,psychological_feature,event,act,activity,education,secondary_education
+capital punishment,entity,abstraction,psychological_feature,event,act,group_action,social_control,punishment,corporal_punishment,execution
+capital punishment,entity,abstraction,psychological_feature,event,group_action,social_control,punishment,corporal_punishment,execution
+garbage collection,entity,abstraction,psychological_feature,event,act,activity,grouping,collection,pickup,garbage_collection
+sexual intercourse,entity,physical_entity,process,organic_process,bodily_process,sexual_activity,sexual_intercourse
+static electricity,entity,physical_entity,process,phenomenon,natural_phenomenon,physical_phenomenon,electricity,static_electricity
+under construction,entity,abstraction,psychological_feature,event,act,activity,creation,creating_from_raw_materials,construction
+board and lodging,entity,abstraction,psychological_feature,event,act,residency,lodging
+industrial action,entity,abstraction,psychological_feature,event,act,action
+local anaesthetic,entity,physical_entity,causal_agent,agent,drug,anesthetic,local_anesthetic
+local anaesthetic,entity,physical_entity,matter,substance,agent,drug,anesthetic,local_anesthetic
+mental arithmetic,entity,abstraction,psychological_feature,cognition,content,knowledge_domain,discipline,science,mathematics,pure_mathematics,arithmetic
+sexual harassment,entity,abstraction,psychological_feature,event,act,activity,practice,mistreatment,harassment,sexual_harassment
+supply and demand,entity,abstraction,communication,message,request,demand
+working knowledge,entity,abstraction,psychological_feature,cognition
+cash on delivery,c.o.d.
+chemical warfare,entity,abstraction,psychological_feature,event,act,group_action,military_action,war,chemical_warfare
+chemical warfare,entity,abstraction,psychological_feature,event,group_action,military_action,war,chemical_warfare
+cost and freight,entity,abstraction,psychological_feature,event,act,group_action,transaction,commerce,commercial_enterprise,transportation,freight
+cost and freight,entity,abstraction,psychological_feature,event,group_action,transaction,commerce,commercial_enterprise,transportation,freight
+drug trafficking,entity,abstraction,psychological_feature,event,act,group_action,transaction,commerce,traffic,drug_traffic
+drug trafficking,entity,abstraction,psychological_feature,event,group_action,transaction,commerce,traffic,drug_traffic
+eastern medicine,entity,abstraction,psychological_feature,cognition,content,knowledge_domain,discipline,science,natural_science,life_science,medical_science,medicine
+granulated sugar,entity,physical_entity,matter,substance,food,foodstuff,ingredient,flavorer,sweetening,sugar,granulated_sugar
+health insurance,entity,abstraction,relation,possession,assets,security,insurance,health_insurance
+industrial waste,entity,physical_entity,matter,substance,material,waste
+industrial waste,entity,abstraction,relation,part,substance,material,waste
+job satisfaction,entity,abstraction,attribute,state,feeling,happiness,contentment,satisfaction
+passport control,entity,abstraction,attribute,quality,power,control
+personal hygiene,entity,abstraction,attribute,state,condition,sanitary_condition,sanitariness,hygiene
+presence of mind,entity,abstraction,attribute,trait,resoluteness,self-control,presence_of_mind
+prime importance,entity,abstraction,attribute,quality,worth,value,importance
+protection money,entity,abstraction,measure,system_of_measurement,standard,medium_of_exchange,money
+read-only memory,entity,physical_entity,object,part,component,hardware,memory,read-only_memory
+read-only memory,entity,physical_entity,object,whole,artifact,instrumentality,device,memory_device,memory,read-only_memory
+sticking plaster,entity,physical_entity,object,whole,artifact,strip,tape,adhesive_tape,plaster
+teacher training,entity,abstraction,psychological_feature,event,act,activity,training
+travel insurance,entity,abstraction,relation,possession,assets,security,insurance
+western medicine,entity,abstraction,psychological_feature,cognition,content,knowledge_domain,discipline,science,natural_science,life_science,medical_science,medicine
+wishful thinking,entity,abstraction,psychological_feature,cognition,content,idea,misconception,illusion,wishful_thinking
+baggage reclaim,get,reclaim
+blood poisoning,entity,abstraction,attribute,state,condition,physical_condition,pathological_state,ill_health,dyscrasia,blood_dyscrasia,blood_disease,blood_poisoning
+blood poisoning,entity,abstraction,attribute,state,condition,physical_condition,pathological_state,ill_health,infection,sepsis,blood_poisoning
+business school,entity,abstraction,group,social_group,organization,institution,educational_institution,school,graduate_school,business_school
+canned laughter,entity,abstraction,psychological_feature,event,act,activity,laughter
+carbon monoxide,entity,physical_entity,matter,substance,material,chemical,compound,oxide,monoxide,carbon_monoxide
+carbon monoxide,entity,abstraction,relation,part,substance,material,chemical,compound,oxide,monoxide,carbon_monoxide
+cash in advance,entity,abstraction,relation,possession,assets,sum,advance
+data processing,entity,physical_entity,process,processing,data_processing
+data protection,entity,abstraction,psychological_feature,event,act,activity,protection
+electronic mail,entity,abstraction,psychological_feature,event,act,communication,transmission,electronic_communication,electronic_mail
+everything else,No tag avaliable
+family planning,entity,abstraction,psychological_feature,event,act,activity,preparation,planning,birth_control
+heart throbbing,entity,abstraction,psychological_feature,event,happening,sound,throbbing
+herbal medicine,entity,physical_entity,causal_agent,agent,drug,medicine,herbal_medicine
+herbal medicine,entity,physical_entity,matter,substance,agent,drug,medicine,herbal_medicine
+high technology,entity,abstraction,psychological_feature,event,act,activity,use,application,technology,high_technology
+high technology,entity,abstraction,psychological_feature,event,act,activity,occupation,profession,technology,high_technology
+insider trading,entity,abstraction,psychological_feature,event,act,group_action,transaction,commerce,trading,insider_trading
+insider trading,entity,abstraction,psychological_feature,event,group_action,transaction,commerce,trading,insider_trading
+interior design,entity,abstraction,psychological_feature,event,act,activity,occupation,trade,interior_decoration
+life expectancy,entity,abstraction,psychological_feature,cognition,content,belief,expectation,anticipation,life_expectancy
+market research,entity,abstraction,psychological_feature,event,act,activity,work,investigation,research,marketing_research
+mass production,entity,abstraction,psychological_feature,event,act,group_action,transaction,commerce,commercial_enterprise,industry,production,mass_production
+mass production,entity,abstraction,psychological_feature,event,group_action,transaction,commerce,commercial_enterprise,industry,production,mass_production
+maternity leave,entity,abstraction,measure,fundamental_quantity,time_period,time_off,leave
+natural science,entity,abstraction,psychological_feature,cognition,content,knowledge_domain,discipline,science,natural_science
+nuclear fission,entity,physical_entity,process,natural_process,nuclear_reaction,fission
+nuclear physics,entity,abstraction,psychological_feature,cognition,content,knowledge_domain,discipline,science,natural_science,physics,nuclear_physics
+paid employment,entity,abstraction,attribute,state,employment
+plastic surgery,entity,abstraction,psychological_feature,event,act,activity,procedure,medical_procedure,operation,plastic_surgery
+quality control,entity,abstraction,psychological_feature,event,act,activity,control,internal_control,quality_control
+racial equality,entity,abstraction,attribute,quality,sameness,equality
+repeat business,entity,abstraction,group,social_group,organization,enterprise,business
+science fiction,entity,abstraction,communication,written_communication,writing,literary_composition,fiction,fantasy,science_fiction
+unprotected sex,entity,physical_entity,process,organic_process,bodily_process,sexual_activity
+virtual reality,entity,abstraction,psychological_feature,event,act,activity,diversion,game,computer_game,virtual_reality
+capital growth,entity,physical_entity,process,organic_process,growth
+cardiac arrest,entity,abstraction,attribute,state,condition,physical_condition,pathological_state,ill_health,pathology,asystole
+food poisoning,entity,abstraction,attribute,state,condition,physical_condition,pathological_state,ill_health,illness,food_poisoning
+foreign policy,entity,abstraction,psychological_feature,cognition,process,higher_cognitive_process,thinking,reasoning,argumentation,policy,foreign_policy
+global economy,entity,abstraction,group,system,economy
+global warming,entity,physical_entity,process,natural_process,temperature_change,heating,global_warming
+identification,entity,abstraction,psychological_feature,event,act,discovery,determination,designation
+mainland China,entity,physical_entity,object,location,region,district,administrative_district,country,asian_country,china
+milk chocolate,entity,physical_entity,matter,solid,food,chocolate,milk_chocolate
+monsoon season,entity,abstraction,measure,fundamental_quantity,time_period,season
+nervous energy,entity,physical_entity,process,phenomenon,natural_phenomenon,physical_phenomenon,energy
+power steering,entity,physical_entity,object,whole,artifact,instrumentality,device,mechanism,steering_system,power_steering
+public housing,entity,physical_entity,object,location,region,district,development,housing_development,housing_project
+retirement age,entity,abstraction,attribute,property,age
+salad dressing,entity,physical_entity,matter,substance,food,foodstuff,ingredient,flavorer,condiment,sauce,dressing
+secret service,entity,abstraction,group,social_group,organization,unit,administrative_unit,intelligence,united_states_intelligence_agency,united_states_secret_service
+something else,No tag avaliable
+sparkling wine,entity,physical_entity,matter,substance,food,beverage,alcohol,wine,sparkling_wine
+sparkling wine,entity,physical_entity,matter,substance,fluid,liquid,beverage,alcohol,wine,sparkling_wine
+sparkling wine,entity,abstraction,relation,part,substance,fluid,liquid,beverage,alcohol,wine,sparkling_wine
+sparkling wine,entity,physical_entity,causal_agent,agent,drug,drug_of_abuse,alcohol,wine,sparkling_wine
+sparkling wine,entity,physical_entity,matter,substance,agent,drug,drug_of_abuse,alcohol,wine,sparkling_wine
+tomato ketchup,entity,physical_entity,matter,substance,food,foodstuff,ingredient,flavorer,condiment,catsup
+transportation,entity,physical_entity,object,whole,artifact,facility,transportation_system
+Amazon(AMZN),NERs that don't have defined tags
+anything else,No tag avaliable
+birth control,entity,abstraction,psychological_feature,event,act,activity,preparation,planning,birth_control
+brand loyalty,entity,abstraction,attribute,quality,fidelity,loyalty
+chain smoking,smoking
+hard currency,entity,abstraction,measure,system_of_measurement,standard,medium_of_exchange,currency,hard_currency
+high pressure,entity,physical_entity,process,phenomenon,natural_phenomenon,physical_phenomenon,pressure
+mineral water,entity,physical_entity,matter,substance,food,beverage,drinking_water,mineral_water
+mineral water,entity,physical_entity,matter,substance,fluid,liquid,beverage,drinking_water,mineral_water
+mineral water,entity,abstraction,relation,part,substance,fluid,liquid,beverage,drinking_water,mineral_water
+mineral water,entity,physical_entity,matter,substance,food,water,drinking_water,mineral_water
+mineral water,entity,physical_entity,matter,substance,fluid,liquid,water,drinking_water,mineral_water
+mineral water,entity,abstraction,relation,part,substance,fluid,liquid,water,drinking_water,mineral_water
+mineral water,entity,physical_entity,matter,substance,nutrient,water,drinking_water,mineral_water
+national debt,entity,abstraction,relation,possession,liabilities,debt,national_debt
+public sector,entity,abstraction,attribute,shape,figure,plane_figure,sector
+shaving cream,entity,abstraction,attribute,shape,round_shape,sphere,ball,globule,bubble,foam,soapsuds,shaving_cream
+shaving cream,entity,physical_entity,object,whole,artifact,instrumentality,toiletry,shaving_cream
+show business,entity,abstraction,group,social_group,organization,enterprise,commercial_enterprise,industry,entertainment_industry
+St Petersburg,entity,physical_entity,object,location,region,district,administrative_district,municipality,town,petersburg
+St Petersburg,entity,physical_entity,object,location,region,geographical_area,urban_area,municipality,town,petersburg
+standing room,entity,abstraction,relation,position,room,standing_room
+architecture,entity,physical_entity,object,whole,artifact,structure,building,architecture
+black coffee,entity,physical_entity,matter,substance,food,beverage,coffee
+black coffee,entity,physical_entity,matter,substance,fluid,liquid,beverage,coffee
+black coffee,entity,abstraction,relation,part,substance,fluid,liquid,beverage,coffee
+compensation,entity,abstraction,relation,possession,transferred_property,outgo,cost,payment,recompense,compensation
+construction,entity,abstraction,psychological_feature,event,act,activity,creation,creating_from_raw_materials,construction
+data capture,entity,abstraction,psychological_feature,event,act,acquiring,capture
+dry cleaning,entity,abstraction,psychological_feature,event,act,action,change,change_of_state,improvement,cleaning,dry_cleaning
+ground staff,entity,abstraction,group,social_group,organization,force,staff
+moonlighting,work,moonlight
+nail varnish,entity,physical_entity,object,whole,artifact,instrumentality,toiletry,cosmetic,nail_polish
+nail varnish,entity,physical_entity,object,whole,artifact,covering,coating,enamel,nail_polish
+nothing else,No tag avaliable
+orange juice,entity,physical_entity,matter,substance,food,beverage,fruit_juice,orange_juice
+orange juice,entity,physical_entity,matter,substance,fluid,liquid,beverage,fruit_juice,orange_juice
+orange juice,entity,abstraction,relation,part,substance,fluid,liquid,beverage,fruit_juice,orange_juice
+panic buying,entity,abstraction,psychological_feature,event,act,acquiring,acquisition,purchase,buying
+pest control,entity,abstraction,attribute,quality,power,control
+road holding,entity,abstraction,psychological_feature,event,act,activity,control,possession,retention
+room service,entity,abstraction,psychological_feature,event,act,activity,work,service
+scuba diving,entity,abstraction,psychological_feature,event,act,activity,diversion,sport,water_sport,swimming,skin_diving,scuba_diving
+show jumping,entity,abstraction,psychological_feature,event,act,activity,diversion,sport,track_and_field,jumping
+skimmed milk,entity,physical_entity,matter,substance,food,beverage,milk,skim_milk
+skimmed milk,entity,physical_entity,matter,substance,fluid,liquid,beverage,milk,skim_milk
+skimmed milk,entity,abstraction,relation,part,substance,fluid,liquid,beverage,milk,skim_milk
+skimmed milk,entity,physical_entity,matter,substance,food,foodstuff,dairy_product,milk,skim_milk
+small change,entity,abstraction,measure,system_of_measurement,standard,medium_of_exchange,currency,cash,small_change
+solar energy,entity,physical_entity,process,phenomenon,natural_phenomenon,physical_phenomenon,energy,alternative_energy,solar_energy
+soy bean oil,entity,physical_entity,thing,unit,molecule,macromolecule,lipid,oil
+soy bean oil,entity,physical_entity,matter,substance,material,chemical,compound,organic_compound,macromolecule,lipid,oil
+soy bean oil,entity,abstraction,relation,part,substance,material,chemical,compound,organic_compound,macromolecule,lipid,oil
+surface mail,entity,abstraction,communication,message,mail,surface_mail
+table tennis,entity,abstraction,psychological_feature,event,act,activity,game,table_game,table_tennis
+toilet paper,entity,physical_entity,matter,substance,material,paper,tissue,toilet_tissue
+toilet paper,entity,abstraction,relation,part,substance,material,paper,tissue,toilet_tissue
+wire netting,entity,abstraction,psychological_feature,event,act,activity,creation,art,arts_and_crafts,handicraft,weaving,netting
+wire netting,entity,abstraction,psychological_feature,event,act,activity,occupation,trade,handicraft,weaving,netting
+apple sauce,entity,physical_entity,matter,substance,food,nutriment,dish,applesauce
+bellyaching,complain,gripe
+boiled rice,entity,physical_entity,matter,substance,food,foodstuff,grain,rice
+boiled rice,entity,physical_entity,matter,substance,food,foodstuff,starches,rice
+brute force,entity,abstraction,attribute,quality,power,influence,force
+casual wear,entity,abstraction,attribute,state,condition,unsoundness,decay,deterioration,wear
+chicken pox,entity,abstraction,attribute,state,condition,physical_condition,pathological_state,ill_health,illness,disease,communicable_disease,contagious_disease,pox
+convenience,entity,abstraction,attribute,state,condition,comfort,convenience
+cooperation,entity,abstraction,psychological_feature,event,act,group_action,cooperation
+cooperation,entity,abstraction,psychological_feature,event,group_action,cooperation
+deprivation,entity,abstraction,attribute,state,condition,financial_condition,poverty,privation
+electricity,entity,physical_entity,process,phenomenon,natural_phenomenon,physical_phenomenon,electricity
+engineering,entity,abstraction,psychological_feature,event,act,activity,use,application,technology
+engineering,entity,abstraction,psychological_feature,event,act,activity,occupation,profession,technology
+first class,entity,abstraction,attribute,property,degree,quality,superiority,first_class
+foam rubber,entity,physical_entity,matter,substance,material,foam,foam_rubber
+foam rubber,entity,abstraction,relation,part,substance,material,foam,foam_rubber
+foam rubber,entity,physical_entity,matter,substance,material,discharge,exudate,latex,rubber,foam_rubber
+foam rubber,entity,abstraction,relation,part,substance,material,discharge,exudate,latex,rubber,foam_rubber
+free speech,entity,abstraction,communication,auditory_communication,speech
+gloss paint,entity,physical_entity,object,whole,artifact,covering,coating,paint
+gloss paint,entity,physical_entity,matter,substance,material,coloring_material,paint
+gloss paint,entity,abstraction,relation,part,substance,material,coloring_material,paint
+handwriting,entity,abstraction,communication,written_communication,writing,handwriting
+hospitality,entity,abstraction,communication,message,acknowledgment,greeting,welcome,cordial_reception
+immigration,entity,abstraction,psychological_feature,event,act,action,change,motion,migration,immigration
+information,entity,abstraction,communication,message,information
+lemon juice,entity,physical_entity,matter,substance,food,foodstuff,juice,lemon_juice
+Main Street,entity,physical_entity,object,whole,artifact,way,road,thoroughfare,street,main_street
+martial law,entity,abstraction,group,collection,law,martial_law
+nail polish,entity,physical_entity,object,whole,artifact,instrumentality,toiletry,cosmetic,nail_polish
+nail polish,entity,physical_entity,object,whole,artifact,covering,coating,enamel,nail_polish
+noodle soup,entity,physical_entity,matter,substance,food,nutriment,dish,soup
+outer space,entity,physical_entity,object,location,outer_space
+outer space,entity,abstraction,attribute,space,outer_space
+piped music,entity,abstraction,communication,auditory_communication,music
+real estate,entity,abstraction,relation,possession,property,real_property
+riot police,entity,abstraction,group,social_group,organization,force,police
+riot police,entity,abstraction,group,social_group,organization,unit,administrative_unit,agency,law_enforcement_agency,police
+rock bottom,entity,physical_entity,object,location,region,bottom,rock_bottom
+Santa Claus,entity,abstraction,psychological_feature,cognition,ability,creativity,imagination,imaginary_being,santa_claus
+Santa Claus,entity,physical_entity,causal_agent,person,preserver,defender,patron_saint,santa_claus
+Santa Claus,entity,physical_entity,object,whole,living_thing,organism,person,preserver,defender,patron_saint,santa_claus
+Santa Claus,entity,abstraction,psychological_feature,cognition,content,belief,spiritual_being,deity,saint,patron_saint,santa_claus
+second best,entity,physical_entity,causal_agent,person,contestant,rival,runner-up
+second best,entity,physical_entity,object,whole,living_thing,organism,person,contestant,rival,runner-up
+second gear,entity,physical_entity,object,whole,artifact,instrumentality,device,mechanism,gear,second_gear
+seriousness,entity,abstraction,attribute,state,feeling,gravity,earnestness
+Shakespeare,entity,physical_entity,causal_agent,person,communicator,writer,dramatist,shakespeare
+Shakespeare,entity,physical_entity,object,whole,living_thing,organism,person,communicator,writer,dramatist,shakespeare
+Shakespeare,entity,physical_entity,causal_agent,person,communicator,writer,poet,shakespeare
+Shakespeare,entity,physical_entity,object,whole,living_thing,organism,person,communicator,writer,poet,shakespeare
+skin diving,entity,abstraction,psychological_feature,event,act,activity,diversion,sport,water_sport,swimming,skin_diving
+social work,entity,abstraction,psychological_feature,event,act,activity,work,welfare_work,social_work
+team spirit,entity,abstraction,attribute,trait,nature,disposition,esprit_de_corps
+tit for tat,entity,abstraction,psychological_feature,event,act,group_action,return,tit_for_tat
+tit for tat,entity,abstraction,psychological_feature,event,group_action,return,tit_for_tat
+tonic water,entity,physical_entity,matter,substance,food,beverage,soft_drink,tonic
+tonic water,entity,physical_entity,matter,substance,fluid,liquid,beverage,soft_drink,tonic
+tonic water,entity,abstraction,relation,part,substance,fluid,liquid,beverage,soft_drink,tonic
+accounting,entity,abstraction,communication,message,statement,explanation,accounting
+anesthesia,entity,abstraction,attribute,state,condition,physical_condition,anesthesia
+arithmetic,entity,abstraction,psychological_feature,cognition,content,knowledge_domain,discipline,science,mathematics,pure_mathematics,arithmetic
+atmosphere,entity,abstraction,attribute,state,condition,atmosphere
+basketball,entity,abstraction,psychological_feature,event,act,activity,game,athletic_game,court_game,basketball
+basketball,entity,abstraction,psychological_feature,event,act,activity,diversion,sport,athletic_game,court_game,basketball
+Bill Gates,entity,physical_entity,causal_agent,person,computer_user,computer_scientist,gates
+Bill Gates,entity,physical_entity,object,whole,living_thing,organism,person,computer_user,computer_scientist,gates
+Bill Gates,entity,physical_entity,causal_agent,person,scientist,computer_scientist,gates
+Bill Gates,entity,physical_entity,object,whole,living_thing,organism,person,scientist,computer_scientist,gates
+Bill Gates,entity,physical_entity,causal_agent,person,capitalist,businessperson,entrepreneur,gates
+Bill Gates,entity,physical_entity,object,whole,living_thing,organism,person,capitalist,businessperson,entrepreneur,gates
+bubble gum,entity,physical_entity,matter,substance,food,nutriment,dainty,sweet,chewing_gum,bubble_gum
+confidence,entity,abstraction,attribute,state,condition,psychological_state,cognitive_state,certainty,assurance
+discipline,entity,abstraction,psychological_feature,cognition,content,knowledge_domain,discipline
+everything,No tag avaliable
+eye shadow,entity,abstraction,attribute,state,illumination,dark,semidarkness,shade,shadow
+eye strain,entity,abstraction,psychological_feature,event,happening,change,deformation,strain
+folk music,entity,abstraction,communication,expressive_style,music_genre,popular_music,folk_music
+folk music,entity,abstraction,communication,auditory_communication,music,music_genre,popular_music,folk_music
+fried rice,entity,physical_entity,matter,substance,food,nutriment,dish,fried_rice
+healthcare,entity,abstraction,psychological_feature,event,act,activity,work,care,healthcare
+ice hockey,entity,abstraction,psychological_feature,event,act,activity,game,athletic_game,ice_hockey
+ice hockey,entity,abstraction,psychological_feature,event,act,activity,diversion,sport,athletic_game,ice_hockey
+ice hockey,entity,abstraction,psychological_feature,event,act,activity,diversion,sport,contact_sport,ice_hockey
+literature,entity,abstraction,communication,written_communication,writing,literature
+management,entity,abstraction,psychological_feature,event,act,group_action,social_control,management
+management,entity,abstraction,psychological_feature,event,group_action,social_control,management
+mass media,entity,abstraction,psychological_feature,event,act,communication,transmission,medium
+media hype,act,interact,communicate,inform,tell,publicize,hype
+medication,entity,physical_entity,causal_agent,agent,drug,medicine
+medication,entity,physical_entity,matter,substance,agent,drug,medicine
+net income,entity,abstraction,relation,possession,assets,sum,gain,financial_gain,income,net_income
+penicillin,entity,physical_entity,causal_agent,agent,drug,medicine,antibacterial,antibiotic,penicillin
+penicillin,entity,physical_entity,matter,substance,agent,drug,medicine,antibacterial,antibiotic,penicillin
+permission,entity,abstraction,communication,message,approval,permission
+petty cash,entity,abstraction,measure,system_of_measurement,standard,medium_of_exchange,money,fund,petty_cash
+philosophy,entity,abstraction,psychological_feature,cognition,content,belief,doctrine
+production,entity,abstraction,psychological_feature,event,act,production
+psychology,entity,abstraction,psychological_feature,cognition,content,knowledge_domain,discipline,science,psychology
+pubic hair,entity,physical_entity,object,whole,natural_object,covering,body_covering,hair,pubic_hair
+roast beef,entity,physical_entity,matter,solid,food,meat,cut,roast,beef_roast
+roast pork,entity,physical_entity,matter,solid,food,meat,cut,roast,pork_roast
+Robin Hood,entity,abstraction,psychological_feature,cognition,ability,creativity,imagination,imaginary_being,fictional_character,robin_hood
+shift work,entity,abstraction,psychological_feature,event,act,activity,work
+sick leave,entity,abstraction,measure,fundamental_quantity,time_period,time_off,leave,sick_leave
+silverware,entity,physical_entity,object,whole,artifact,article,ware,tableware,silverware
+small talk,entity,abstraction,communication,auditory_communication,speech,conversation,chat,chitchat
+sugar cane,entity,physical_entity,object,whole,natural_object,plant_part,plant_organ,stalk,cane,sugarcane
+television,entity,physical_entity,object,whole,artifact,instrumentality,medium,telecommunication,broadcasting,television
+vocabulary,entity,physical_entity,object,whole,artifact,creation,product,work,publication,book,reference_book,wordbook,vocabulary
+volleyball,entity,abstraction,psychological_feature,event,act,activity,game,athletic_game,court_game,volleyball
+volleyball,entity,abstraction,psychological_feature,event,act,activity,diversion,sport,athletic_game,court_game,volleyball
+white meat,entity,abstraction,measure,indefinite_quantity,small_indefinite_quantity,helping,breast
+white wine,entity,physical_entity,matter,substance,food,beverage,alcohol,wine,white_wine
+white wine,entity,physical_entity,matter,substance,fluid,liquid,beverage,alcohol,wine,white_wine
+white wine,entity,abstraction,relation,part,substance,fluid,liquid,beverage,alcohol,wine,white_wine
+white wine,entity,physical_entity,causal_agent,agent,drug,drug_of_abuse,alcohol,wine,white_wine
+white wine,entity,physical_entity,matter,substance,agent,drug,drug_of_abuse,alcohol,wine,white_wine
+arthritis,entity,abstraction,attribute,state,condition,physical_condition,pathological_state,ill_health,illness,disease,inflammatory_disease,arthritis
+borrowing,entity,abstraction,psychological_feature,event,act,acquiring,appropriation,borrowing
+cast iron,entity,physical_entity,matter,substance,chemical_element,metallic_element,iron,cast_iron
+cast iron,entity,abstraction,relation,part,substance,chemical_element,metallic_element,iron,cast_iron
+champagne,entity,physical_entity,matter,substance,food,beverage,alcohol,wine,sparkling_wine,champagne
+champagne,entity,physical_entity,matter,substance,fluid,liquid,beverage,alcohol,wine,sparkling_wine,champagne
+champagne,entity,abstraction,relation,part,substance,fluid,liquid,beverage,alcohol,wine,sparkling_wine,champagne
+champagne,entity,physical_entity,causal_agent,agent,drug,drug_of_abuse,alcohol,wine,sparkling_wine,champagne
+champagne,entity,physical_entity,matter,substance,agent,drug,drug_of_abuse,alcohol,wine,sparkling_wine,champagne
+chocolate,entity,physical_entity,matter,substance,food,beverage,cocoa
+chocolate,entity,physical_entity,matter,substance,fluid,liquid,beverage,cocoa
+chocolate,entity,abstraction,relation,part,substance,fluid,liquid,beverage,cocoa
+coriander,entity,physical_entity,object,whole,living_thing,organism,plant,vascular_plant,herb,coriander
+education,entity,abstraction,psychological_feature,event,act,activity,education
+Elon Musk,entity,physical_entity,matter,substance,body_substance,liquid_body_substance,secretion,musk
+Elon Musk,entity,abstraction,relation,part,substance,body_substance,liquid_body_substance,secretion,musk
+equipment,entity,physical_entity,object,whole,artifact,instrumentality,equipment
+fast food,entity,physical_entity,matter,substance,food,nutriment,fast_food
+front row,entity,abstraction,group,arrangement,formation,line,row
+furniture,entity,physical_entity,object,whole,artifact,instrumentality,furnishing,furniture
+good luck,entity,abstraction,attribute,state,condition,fortune,good_fortune
+half time,entity,abstraction,psychological_feature,event,happening,case,time
+hard luck,entity,physical_entity,process,phenomenon,luck
+high life,entity,abstraction,psychological_feature,event,act,activity,waste,extravagance
+high tech,entity,abstraction,psychological_feature,event,act,activity,use,application,technology,high_technology
+high tech,entity,abstraction,psychological_feature,event,act,activity,occupation,profession,technology,high_technology
+ice cream,entity,physical_entity,matter,substance,food,nutriment,course,dessert,frozen_dessert,ice_cream
+Instagram,ORG
+insurance,entity,abstraction,relation,possession,assets,security,insurance
+junk food,entity,physical_entity,matter,solid,food,junk_food
+junk mail,entity,abstraction,communication,message,mail,third-class_mail,junk_mail
+lemon tea,entity,physical_entity,matter,substance,food,beverage,tea
+lemon tea,entity,physical_entity,matter,substance,fluid,liquid,beverage,tea
+lemon tea,entity,abstraction,relation,part,substance,fluid,liquid,beverage,tea
+machinery,entity,physical_entity,object,whole,artifact,instrumentality,device,machine,machinery
+marketing,entity,abstraction,psychological_feature,event,act,group_action,transaction,commerce,selling
+marketing,entity,abstraction,psychological_feature,event,group_action,transaction,commerce,selling
+Microsoft,ORG
+olive oil,entity,physical_entity,thing,unit,molecule,macromolecule,lipid,fat,edible_fat,vegetable_oil,olive_oil
+olive oil,entity,physical_entity,matter,substance,material,chemical,compound,organic_compound,macromolecule,lipid,fat,edible_fat,vegetable_oil,olive_oil
+olive oil,entity,abstraction,relation,part,substance,material,chemical,compound,organic_compound,macromolecule,lipid,fat,edible_fat,vegetable_oil,olive_oil
+paperwork,entity,abstraction,psychological_feature,event,act,activity,work,paperwork
+patronage,entity,abstraction,psychological_feature,event,act,activity,aid,support,blessing,backing
+potential,entity,abstraction,attribute,state,being,possibility,potential
+radiation,entity,physical_entity,process,phenomenon,natural_phenomenon,physical_phenomenon,energy,radiation
+rice wine,entity,physical_entity,matter,substance,food,beverage,alcohol,wine
+rice wine,entity,physical_entity,matter,substance,fluid,liquid,beverage,alcohol,wine
+rice wine,entity,abstraction,relation,part,substance,fluid,liquid,beverage,alcohol,wine
+rice wine,entity,physical_entity,causal_agent,agent,drug,drug_of_abuse,alcohol,wine
+rice wine,entity,physical_entity,matter,substance,agent,drug,drug_of_abuse,alcohol,wine
+rye bread,entity,physical_entity,matter,solid,food,baked_goods,bread,rye_bread
+rye bread,entity,physical_entity,matter,substance,food,foodstuff,starches,bread,rye_bread
+San Diego,entity,physical_entity,object,location,region,district,administrative_district,municipality,city,san_diego
+San Diego,entity,physical_entity,object,location,region,geographical_area,urban_area,municipality,city,san_diego
+San Diego,entity,physical_entity,object,location,point,geographic_point,port,port_of_entry,san_diego
+sea power,entity,abstraction,attribute,quality,ability,capability,military_capability,sea_power
+something,No tag avaliable
+soy sauce,entity,physical_entity,matter,substance,food,foodstuff,ingredient,flavorer,condiment,soy_sauce
+Starbucks,ORG
+sweetness,entity,abstraction,psychological_feature,cognition,process,basic_cognitive_process,perception,sensation,taste,sweet
+aerobics,entity,abstraction,psychological_feature,event,act,activity,work,labor,effort,exercise,cardiopulmonary_exercise,aerobics
+all talk,entity,abstraction,communication,auditory_communication,speech,conversation,talk
+bad debt,entity,abstraction,relation,possession,liabilities,debt,bad_debt
+bad luck,entity,abstraction,attribute,state,condition,fortune,misfortune
+baseball,entity,abstraction,psychological_feature,event,act,activity,game,athletic_game,outdoor_game,field_game,ball_game,baseball
+baseball,entity,abstraction,psychological_feature,event,act,activity,diversion,sport,athletic_game,outdoor_game,field_game,ball_game,baseball
+capacity,entity,abstraction,attribute,quality,ability,capability,capacity
+cilantro,entity,physical_entity,object,whole,living_thing,organism,plant,vascular_plant,herb,coriander
+clothing,entity,physical_entity,object,whole,artifact,commodity,consumer_goods,clothing
+clothing,entity,physical_entity,object,whole,artifact,covering,clothing
+diabetes,entity,abstraction,attribute,state,condition,physical_condition,pathological_state,ill_health,illness,disease,genetic_disease,polygenic_disorder,diabetes
+diarrhea,entity,abstraction,psychological_feature,cognition,information,evidence,symptom,diarrhea
+disorder,entity,abstraction,attribute,state,condition,physical_condition,disorder
+downtown,entity,physical_entity,object,location,region,district,city_district,business_district
+Facebook,NERs that don't have defined tags
+findings,entity,abstraction,group,collection,findings
+football,entity,abstraction,psychological_feature,event,act,activity,diversion,sport,contact_sport,football
+football,entity,abstraction,psychological_feature,event,act,activity,game,athletic_game,outdoor_game,field_game,football
+football,entity,abstraction,psychological_feature,event,act,activity,diversion,sport,athletic_game,outdoor_game,field_game,football
+Glossika,PERSON
+homework,entity,abstraction,psychological_feature,event,act,activity,work,undertaking,assignment,school_assignment,homework
+hydrogen,entity,physical_entity,matter,substance,chemical_element,hydrogen
+hydrogen,entity,abstraction,relation,part,substance,chemical_element,hydrogen
+hydrogen,entity,physical_entity,matter,fluid,gas,hydrogen
+ill will,entity,abstraction,attribute,state,feeling,emotion,hate,hostility
+insomnia,entity,abstraction,attribute,state,condition,physical_condition,disorder,sleep_disorder,insomnia
+kindness,entity,abstraction,attribute,quality,morality,good,kindness
+know-how,entity,abstraction,psychological_feature,cognition,ability,know-how
+leg room,entity,physical_entity,object,whole,artifact,structure,area,room
+medicine,entity,abstraction,psychological_feature,cognition,content,knowledge_domain,discipline,science,natural_science,life_science,medical_science,medicine
+nonsense,entity,abstraction,communication,message,nonsense
+ointment,entity,physical_entity,causal_agent,agent,drug,medicine,remedy,ointment
+ointment,entity,physical_entity,matter,substance,agent,drug,medicine,remedy,ointment
+open air,entity,physical_entity,object,location,region,outside,outdoors
+oral sex,entity,physical_entity,process,organic_process,bodily_process,sexual_activity,perversion,oral_sex
+patience,entity,abstraction,attribute,trait,nature,disposition,good_nature,patience
+pleasure,entity,abstraction,attribute,state,feeling,pleasure
+pressure,entity,physical_entity,process,phenomenon,natural_phenomenon,physical_phenomenon,pressure
+red meat,entity,physical_entity,matter,solid,food,meat,red_meat
+red tape,entity,abstraction,psychological_feature,event,act,group_action,due_process,proceeding,procedure,bureaucratic_procedure
+red tape,entity,abstraction,psychological_feature,event,group_action,due_process,proceeding,procedure,bureaucratic_procedure
+red wine,entity,physical_entity,matter,substance,food,beverage,alcohol,wine,red_wine
+red wine,entity,physical_entity,matter,substance,fluid,liquid,beverage,alcohol,wine,red_wine
+red wine,entity,abstraction,relation,part,substance,fluid,liquid,beverage,alcohol,wine,red_wine
+red wine,entity,physical_entity,causal_agent,agent,drug,drug_of_abuse,alcohol,wine,red_wine
+red wine,entity,physical_entity,matter,substance,agent,drug,drug_of_abuse,alcohol,wine,red_wine
+religion,entity,abstraction,psychological_feature,cognition,content,belief,religion
+religion,entity,abstraction,attribute,quality,morality,good,virtue,cardinal_virtue,theological_virtue,religion
+security,entity,abstraction,attribute,state,condition,safety,security
+skincare,entity,abstraction,psychological_feature,event,act,activity,work,care,skin_care
+Snapchat,NERs that don't have defined tags
+software,entity,abstraction,communication,written_communication,writing,coding_system,code,software
+soy milk,entity,physical_entity,matter,substance,food,beverage,milk
+soy milk,entity,physical_entity,matter,substance,fluid,liquid,beverage,milk
+soy milk,entity,abstraction,relation,part,substance,fluid,liquid,beverage,milk
+soy milk,entity,physical_entity,matter,substance,food,foodstuff,dairy_product,milk
+speeding,entity,abstraction,psychological_feature,event,act,action,change,motion,speed
+sunblock,entity,physical_entity,object,whole,artifact,instrumentality,toiletry,cream,sunscreen
+sunshine,entity,physical_entity,process,phenomenon,natural_phenomenon,physical_phenomenon,energy,radiation,electromagnetic_radiation,actinic_radiation,light,sunlight
+swelling,entity,abstraction,attribute,state,enlargement,swelling
+swelling,entity,abstraction,psychological_feature,cognition,information,evidence,symptom,swelling
+tax code,entity,abstraction,communication,written_communication,code
+toiletry,entity,physical_entity,object,whole,artifact,instrumentality,toiletry
+universe,entity,physical_entity,object,whole,natural_object,universe
+whatever,any
+Whatsapp,NERs that don't have defined tags
+alcohol,entity,physical_entity,matter,substance,food,beverage,alcohol
+alcohol,entity,physical_entity,matter,substance,fluid,liquid,beverage,alcohol
+alcohol,entity,abstraction,relation,part,substance,fluid,liquid,beverage,alcohol
+alcohol,entity,physical_entity,causal_agent,agent,drug,drug_of_abuse,alcohol
+alcohol,entity,physical_entity,matter,substance,agent,drug,drug_of_abuse,alcohol
+aspirin,entity,physical_entity,causal_agent,agent,drug,medicine,analgesic,aspirin
+aspirin,entity,physical_entity,matter,substance,agent,drug,medicine,analgesic,aspirin
+aspirin,entity,physical_entity,causal_agent,agent,drug,medicine,anti-inflammatory,nonsteroidal_anti-inflammatory,salicylate,aspirin
+aspirin,entity,physical_entity,matter,substance,agent,drug,medicine,anti-inflammatory,nonsteroidal_anti-inflammatory,salicylate,aspirin
+aspirin,entity,physical_entity,matter,substance,material,chemical,compound,salt,salicylate,aspirin
+aspirin,entity,abstraction,relation,part,substance,material,chemical,compound,salt,salicylate,aspirin
+baggage,entity,physical_entity,object,whole,artifact,instrumentality,container,case,baggage
+chicken,entity,physical_entity,matter,solid,food,meat,bird,poultry,chicken
+cooking,entity,abstraction,psychological_feature,event,act,action,change,change_of_state,cooking
+cuisine,entity,abstraction,psychological_feature,event,act,action,change,change_of_state,cooking,cuisine
+dim sum,entity,abstraction,psychological_feature,event,act,action,change,change_of_state,cooking,cuisine,dim_sum
+Dropbox,PRODUCT
+English,entity,abstraction,communication,language,natural_language,indo-european,germanic,west_germanic,english
+fashion,entity,abstraction,attribute,property,manner
+fatigue,entity,abstraction,attribute,state,temporary_state,fatigue
+finance,entity,abstraction,psychological_feature,event,act,group_action,transaction,commerce,commercial_enterprise,finance
+finance,entity,abstraction,psychological_feature,event,group_action,transaction,commerce,commercial_enterprise,finance
+freedom,entity,abstraction,attribute,state,freedom
+funding,entity,abstraction,relation,possession,assets,resource,support
+garbage,entity,physical_entity,matter,substance,material,waste,garbage
+garbage,entity,abstraction,relation,part,substance,material,waste,garbage
+history,entity,abstraction,attribute,time,past,history
+housing,entity,physical_entity,object,whole,artifact,structure,housing
+hygiene,entity,abstraction,attribute,state,condition,sanitary_condition,sanitariness,hygiene
+jewelry,entity,physical_entity,object,whole,artifact,decoration,adornment,jewelry
+lactose,entity,physical_entity,thing,unit,molecule,macromolecule,carbohydrate,oligosaccharide,disaccharide,lactose
+lactose,entity,physical_entity,matter,substance,material,chemical,compound,organic_compound,macromolecule,carbohydrate,oligosaccharide,disaccharide,lactose
+lactose,entity,abstraction,relation,part,substance,material,chemical,compound,organic_compound,macromolecule,carbohydrate,oligosaccharide,disaccharide,lactose
+laundry,entity,physical_entity,object,whole,artifact,commodity,consumer_goods,clothing,garment,laundry
+laundry,entity,physical_entity,object,whole,artifact,covering,clothing,garment,laundry
+laundry,entity,physical_entity,object,whole,artifact,commodity,drygoods,white_goods,laundry
+luggage,entity,physical_entity,object,whole,artifact,instrumentality,container,case,baggage
+make-up,entity,abstraction,psychological_feature,event,makeup
+mileage,entity,abstraction,relation,position,placement,spacing,distance,mileage
+Panadol,entity,physical_entity,causal_agent,agent,drug,medicine,analgesic,acetaminophen
+Panadol,entity,physical_entity,matter,substance,agent,drug,medicine,analgesic,acetaminophen
+plastic,entity,physical_entity,matter,solid,plastic
+purpose,entity,abstraction,psychological_feature,cognition,content,goal,purpose
+reading,entity,abstraction,psychological_feature,cognition,process,higher_cognitive_process,linguistic_process,reading
+reality,entity,abstraction,psychological_feature,cognition,content,experience,world
+Samsung,ORG
+science,entity,abstraction,psychological_feature,cognition,content,knowledge_domain,discipline,science
+seafood,entity,physical_entity,matter,solid,food,seafood
+silence,entity,abstraction,attribute,state,condition,silence
+singing,entity,abstraction,psychological_feature,event,act,activity,diversion,entertainment,show,presentation,performance,musical_performance,singing
+singing,entity,abstraction,psychological_feature,cognition,content,knowledge_domain,discipline,humanistic_discipline,performing_arts,musical_performance,singing
+singing,entity,abstraction,psychological_feature,event,act,activity,music,vocal_music,singing
+surgery,entity,abstraction,psychological_feature,cognition,content,knowledge_domain,discipline,science,natural_science,life_science,medical_science,surgery
+tai chi,entity,abstraction,psychological_feature,event,act,activity,protection,self-defense,martial_art,t'ai_chi
+tetanus,entity,abstraction,attribute,state,condition,physical_condition,pathological_state,ill_health,infection,tetanus
+theater,entity,physical_entity,object,whole,artifact,structure,building,theater
+theatre,entity,physical_entity,object,whole,artifact,structure,building,theater
+tobacco,entity,physical_entity,causal_agent,agent,drug,drug_of_abuse,tobacco
+tobacco,entity,physical_entity,matter,substance,agent,drug,drug_of_abuse,tobacco
+tobacco,entity,physical_entity,matter,substance,material,plant_material,plant_product,tobacco
+tobacco,entity,abstraction,relation,part,substance,material,plant_material,plant_product,tobacco
+tourism,entity,abstraction,psychological_feature,event,act,group_action,transaction,commerce,commercial_enterprise,tourism
+tourism,entity,abstraction,psychological_feature,event,group_action,transaction,commerce,commercial_enterprise,tourism
+traffic,entity,abstraction,group,collection,traffic
+Tylenol,entity,physical_entity,causal_agent,agent,drug,medicine,analgesic,acetaminophen
+Tylenol,entity,physical_entity,matter,substance,agent,drug,medicine,analgesic,acetaminophen
+weather,entity,physical_entity,process,phenomenon,natural_phenomenon,physical_phenomenon,atmospheric_phenomenon,weather
+advice,entity,abstraction,communication,message,proposal,advice
+asthma,entity,abstraction,attribute,state,condition,physical_condition,pathological_state,ill_health,illness,disease,respiratory_disease,asthma
+boxing,entity,abstraction,psychological_feature,event,act,activity,diversion,sport,contact_sport,boxing
+butter,entity,physical_entity,matter,substance,food,foodstuff,dairy_product,butter
+butter,entity,physical_entity,matter,solid,food,butter
+carbon,entity,physical_entity,matter,substance,chemical_element,carbon
+carbon,entity,abstraction,relation,part,substance,chemical_element,carbon
+cheese,entity,physical_entity,matter,substance,food,foodstuff,dairy_product,cheese
+cheese,entity,physical_entity,matter,solid,food,cheese
+cinema,entity,physical_entity,object,whole,artifact,instrumentality,medium,film
+coffee,entity,physical_entity,matter,substance,food,beverage,coffee
+coffee,entity,physical_entity,matter,substance,fluid,liquid,beverage,coffee
+coffee,entity,abstraction,relation,part,substance,fluid,liquid,beverage,coffee
+detail,entity,abstraction,psychological_feature,cognition,information,fact,detail
+e-mail,entity,abstraction,psychological_feature,event,act,communication,transmission,electronic_communication,electronic_mail
+ground,entity,physical_entity,object,land
+health,entity,abstraction,attribute,state,condition,fortune,good_fortune,prosperity,wellbeing,health
+heaven,entity,physical_entity,object,location,region,eden
+height,entity,abstraction,attribute,property,magnitude,dimension,height
+horror,entity,abstraction,attribute,state,feeling,emotion,fear,horror
+hunger,entity,abstraction,attribute,state,condition,physical_condition,drive,hunger
+labour,entity,abstraction,group,people,class,labor
+liquor,entity,physical_entity,matter,substance,food,beverage,alcohol,liquor
+liquor,entity,physical_entity,matter,substance,fluid,liquid,beverage,alcohol,liquor
+liquor,entity,abstraction,relation,part,substance,fluid,liquid,beverage,alcohol,liquor
+liquor,entity,physical_entity,causal_agent,agent,drug,drug_of_abuse,alcohol,liquor
+liquor,entity,physical_entity,matter,substance,agent,drug,drug_of_abuse,alcohol,liquor
+nature,entity,abstraction,attribute,quality,nature
+nausea,entity,abstraction,psychological_feature,cognition,information,evidence,symptom,nausea
+octane,entity,physical_entity,matter,substance,material,chemical,compound,organic_compound,hydrocarbon,octane
+octane,entity,abstraction,relation,part,substance,material,chemical,compound,organic_compound,hydrocarbon,octane
+pollen,entity,physical_entity,object,whole,natural_object,plant_part,plant_organ,reproductive_structure,agamete,spore,pollen
+prison,entity,physical_entity,object,whole,artifact,structure,establishment,institution,penal_institution,correctional_institution,prison
+relief,entity,abstraction,attribute,state,feeling,pleasure,comfort,relief
+safety,entity,abstraction,attribute,state,condition,safety
+shrimp,entity,physical_entity,causal_agent,person,small_person,runt
+shrimp,entity,physical_entity,object,whole,living_thing,organism,person,small_person,runt
+silver,entity,physical_entity,matter,substance,material,conductor,silver
+silver,entity,abstraction,relation,part,substance,material,conductor,silver
+silver,entity,physical_entity,matter,substance,chemical_element,metallic_element,noble_metal,silver
+silver,entity,abstraction,relation,part,substance,chemical_element,metallic_element,noble_metal,silver
+speech,entity,abstraction,psychological_feature,event,act,speech_act,address
+tennis,entity,abstraction,psychological_feature,event,act,activity,game,athletic_game,court_game,tennis
+tennis,entity,abstraction,psychological_feature,event,act,activity,diversion,sport,athletic_game,court_game,tennis
+wealth,entity,abstraction,attribute,state,condition,financial_condition,wealth
+weight,entity,abstraction,attribute,property,physical_property,weight
+blood,entity,physical_entity,matter,substance,body_substance,liquid_body_substance,blood
+blood,entity,abstraction,relation,part,substance,body_substance,liquid_body_substance,blood
+bread,entity,physical_entity,matter,solid,food,baked_goods,bread
+bread,entity,physical_entity,matter,substance,food,foodstuff,starches,bread
+candy,entity,physical_entity,matter,substance,food,nutriment,dainty,sweet,candy
+chess,entity,physical_entity,object,whole,living_thing,organism,plant,vascular_plant,herb,gramineous_plant,grass,brome,chess
+crime,entity,abstraction,psychological_feature,event,act,activity,wrongdoing,transgression,crime
+dairy,entity,physical_entity,object,location,point,geographic_point,workplace,farm,dairy
+email,entity,abstraction,psychological_feature,event,act,communication,transmission,electronic_communication,electronic_mail
+flour,entity,physical_entity,matter,substance,food,foodstuff,flour
+fruit,entity,physical_entity,object,whole,natural_object,plant_part,plant_organ,reproductive_structure,fruit
+glass,entity,physical_entity,matter,solid,glass
+gravy,entity,physical_entity,matter,substance,food,foodstuff,ingredient,flavorer,condiment,sauce,gravy
+juice,entity,physical_entity,matter,substance,food,foodstuff,juice
+labor,entity,abstraction,group,people,class,labor
+maths,entity,abstraction,psychological_feature,cognition,content,knowledge_domain,discipline,science,mathematics
+media,entity,physical_entity,object,whole,artifact,instrumentality,medium
+money,entity,abstraction,measure,system_of_measurement,standard,medium_of_exchange,money
+music,entity,abstraction,communication,auditory_communication,music
+Obama,PERSON
+paper,entity,physical_entity,matter,substance,material,paper
+paper,entity,abstraction,relation,part,substance,material,paper
+pasta,entity,physical_entity,matter,substance,food,nutriment,dish,pasta
+Putin,entity,physical_entity,causal_agent,person,leader,politician,statesman,putin
+Putin,entity,physical_entity,object,whole,living_thing,organism,person,leader,politician,statesman,putin
+space,entity,abstraction,attribute,space
+spite,entity,abstraction,attribute,state,feeling,emotion,hate,malevolence,malice
+sport,entity,abstraction,psychological_feature,event,act,activity,diversion,sport
+sugar,entity,physical_entity,matter,substance,food,foodstuff,ingredient,flavorer,sweetening,sugar
+trash,entity,physical_entity,matter,substance,material,waste,rubbish
+trash,entity,abstraction,relation,part,substance,material,waste,rubbish
+Trump,entity,physical_entity,matter,substance,material,paper,card,playing_card,trump
+Trump,entity,abstraction,relation,part,substance,material,paper,card,playing_card,trump
+urine,entity,physical_entity,matter,substance,material,waste,body_waste,urine
+urine,entity,abstraction,relation,part,substance,material,waste,body_waste,urine
+vomit,entity,physical_entity,matter,substance,material,waste,body_waste,vomit
+vomit,entity,abstraction,relation,part,substance,material,waste,body_waste,vomit
+water,entity,physical_entity,matter,substance,material,chemical,compound,binary_compound,water
+water,entity,abstraction,relation,part,substance,material,chemical,compound,binary_compound,water
+water,entity,physical_entity,matter,fluid,liquid,water
+worth,entity,abstraction,measure,indefinite_quantity,worth
+arts,entity,abstraction,psychological_feature,cognition,content,knowledge_domain,discipline,humanistic_discipline
+baht,entity,abstraction,measure,definite_quantity,unit_of_measurement,monetary_unit,thai_monetary_unit,baht
+beef,entity,physical_entity,object,whole,living_thing,organism,animal,chordate,vertebrate,mammal,placental,ungulate,even-toed_ungulate,ruminant,bovid,bovine,cattle,beef
+cake,entity,physical_entity,object,whole,artifact,block,cake
+care,entity,abstraction,psychological_feature,event,act,activity,work,care
+cash,entity,abstraction,measure,system_of_measurement,standard,medium_of_exchange,currency,cash
+fear,entity,abstraction,attribute,state,feeling,emotion,fear
+film,entity,physical_entity,object,whole,artifact,creation,product,movie
+film,entity,abstraction,psychological_feature,event,social_event,show,movie
+fire,entity,abstraction,psychological_feature,event,happening,fire
+fish,entity,physical_entity,object,whole,living_thing,organism,animal,chordate,vertebrate,aquatic_vertebrate,fish
+food,entity,physical_entity,matter,substance,food
+golf,entity,abstraction,psychological_feature,event,act,activity,game,athletic_game,outdoor_game,golf
+golf,entity,abstraction,psychological_feature,event,act,activity,diversion,sport,athletic_game,outdoor_game,golf
+hail,entity,physical_entity,process,phenomenon,natural_phenomenon,physical_phenomenon,atmospheric_phenomenon,weather,precipitation,hail
+hair,entity,physical_entity,object,whole,natural_object,covering,body_covering,hair
+heat,entity,physical_entity,process,phenomenon,natural_phenomenon,physical_phenomenon,energy,heat
+jazz,entity,abstraction,communication,auditory_communication,speech,conversation,talk,wind
+junk,entity,physical_entity,matter,substance,material,waste,rubbish,debris
+junk,entity,abstraction,relation,part,substance,material,waste,rubbish,debris
+life,entity,abstraction,attribute,state,being,life
+luck,entity,abstraction,attribute,state,condition,fortune
+mail,entity,abstraction,communication,message,mail
+Mars,entity,physical_entity,object,whole,natural_object,celestial_body,planet,superior_planet,mars
+Mars,entity,physical_entity,object,whole,natural_object,celestial_body,planet,terrestrial_planet,mars
+math,entity,abstraction,psychological_feature,cognition,content,knowledge_domain,discipline,science,mathematics
+meat,entity,physical_entity,matter,solid,food,meat
+milk,entity,physical_entity,matter,substance,food,beverage,milk
+milk,entity,physical_entity,matter,substance,fluid,liquid,beverage,milk
+milk,entity,abstraction,relation,part,substance,fluid,liquid,beverage,milk
+milk,entity,physical_entity,matter,substance,food,foodstuff,dairy_product,milk
+nursery school teacher,entity,physical_entity,causal_agent,person,adult,professional,educator,teacher
+nursery school teacher,entity,physical_entity,object,whole,living_thing,organism,person,adult,professional,educator,teacher
+laboratory technician,entity,physical_entity,causal_agent,person,worker,skilled_worker,technician
+laboratory technician,entity,physical_entity,object,whole,living_thing,organism,person,worker,skilled_worker,technician
+management consultant,entity,physical_entity,causal_agent,person,expert,authority,adviser,management_consultant
+management consultant,entity,physical_entity,object,whole,living_thing,organism,person,expert,authority,adviser,management_consultant
+very important person,entity,physical_entity,causal_agent,person,adult,important_person,very_important_person
+very important person,entity,physical_entity,object,whole,living_thing,organism,person,adult,important_person,very_important_person
+front seat passenger,entity,physical_entity,causal_agent,person,traveler,passenger
+front seat passenger,entity,physical_entity,object,whole,living_thing,organism,person,traveler,passenger
+master of ceremonies,entity,physical_entity,causal_agent,person,entertainer,master_of_ceremonies
+master of ceremonies,entity,physical_entity,object,whole,living_thing,organism,person,entertainer,master_of_ceremonies
+male chauvinist pig,entity,physical_entity,object,whole,artifact,instrumentality,container,mold,pig_bed
+blue-collar worker,entity,physical_entity,causal_agent,person,worker
+blue-collar worker,entity,physical_entity,object,whole,living_thing,organism,person,worker
+board of directors,entity,abstraction,group,social_group,organization,unit,administrative_unit,committee,board,directorate
+marriage counselor,entity,physical_entity,causal_agent,person,expert,authority,adviser,counselor
+marriage counselor,entity,physical_entity,object,whole,living_thing,organism,person,expert,authority,adviser,counselor
+research assistant,entity,physical_entity,causal_agent,person,worker,assistant
+research assistant,entity,physical_entity,object,whole,living_thing,organism,person,worker,assistant
+subsistence farmer,entity,physical_entity,causal_agent,person,creator,farmer
+subsistence farmer,entity,physical_entity,object,whole,living_thing,organism,person,creator,farmer
+teaching assistant,entity,physical_entity,causal_agent,person,worker,assistant
+teaching assistant,entity,physical_entity,object,whole,living_thing,organism,person,worker,assistant
+fellow countryman,entity,physical_entity,causal_agent,person,national,compatriot,countryman
+fellow countryman,entity,physical_entity,object,whole,living_thing,organism,person,national,compatriot,countryman
+foreign secretary,entity,physical_entity,causal_agent,person,leader,head,secretary
+foreign secretary,entity,physical_entity,object,whole,living_thing,organism,person,leader,head,secretary
+managing director,entity,physical_entity,causal_agent,person,leader,head,administrator,director
+managing director,entity,physical_entity,object,whole,living_thing,organism,person,leader,head,administrator,director
+natural scientist,entity,physical_entity,causal_agent,person,scientist,biologist,naturalist
+natural scientist,entity,physical_entity,object,whole,living_thing,organism,person,scientist,biologist,naturalist
+probation officer,entity,physical_entity,causal_agent,person,owner,holder,officeholder,probation_officer
+probation officer,entity,physical_entity,object,whole,living_thing,organism,person,owner,holder,officeholder,probation_officer
+probation officer,entity,physical_entity,causal_agent,person,worker,skilled_worker,official,officeholder,probation_officer
+probation officer,entity,physical_entity,object,whole,living_thing,organism,person,worker,skilled_worker,official,officeholder,probation_officer
+public prosecutor,entity,physical_entity,causal_agent,person,adult,professional,lawyer,prosecutor
+public prosecutor,entity,physical_entity,object,whole,living_thing,organism,person,adult,professional,lawyer,prosecutor
+public prosecutor,entity,physical_entity,causal_agent,person,worker,skilled_worker,official,prosecutor
+public prosecutor,entity,physical_entity,object,whole,living_thing,organism,person,worker,skilled_worker,official,prosecutor
+sports journalist,entity,physical_entity,causal_agent,person,communicator,writer,journalist
+sports journalist,entity,physical_entity,object,whole,living_thing,organism,person,communicator,writer,journalist
+forwarding agent,entity,physical_entity,causal_agent,person,communicator,negotiator,representative,agent
+forwarding agent,entity,physical_entity,object,whole,living_thing,organism,person,communicator,negotiator,representative,agent
+speech therapist,entity,physical_entity,causal_agent,person,expert,therapist,speech_therapist
+speech therapist,entity,physical_entity,object,whole,living_thing,organism,person,expert,therapist,speech_therapist
+surrogate mother,entity,physical_entity,causal_agent,person,relative,ancestor,progenitor,genitor,parent,mother,surrogate_mother
+surrogate mother,entity,physical_entity,object,whole,living_thing,organism,person,relative,ancestor,progenitor,genitor,parent,mother,surrogate_mother
+teenage daughter,entity,physical_entity,causal_agent,person,relative,offspring,child,female_offspring,daughter
+teenage daughter,entity,physical_entity,object,whole,living_thing,organism,person,relative,offspring,child,female_offspring,daughter
+teenage daughter,entity,physical_entity,causal_agent,person,female,female_offspring,daughter
+teenage daughter,entity,physical_entity,object,whole,living_thing,organism,person,female,female_offspring,daughter
+ticket collector,entity,physical_entity,causal_agent,person,preserver,defender,guard,doorkeeper,ticket_collector
+ticket collector,entity,physical_entity,object,whole,living_thing,organism,person,preserver,defender,guard,doorkeeper,ticket_collector
+ticket inspector,entity,physical_entity,causal_agent,person,preserver,defender,lawman,policeman,inspector
+ticket inspector,entity,physical_entity,object,whole,living_thing,organism,person,preserver,defender,lawman,policeman,inspector
+baseball player,entity,physical_entity,causal_agent,person,contestant,athlete,ballplayer
+baseball player,entity,physical_entity,object,whole,living_thing,organism,person,contestant,athlete,ballplayer
+baseball player,entity,physical_entity,causal_agent,person,contestant,player,ballplayer
+baseball player,entity,physical_entity,object,whole,living_thing,organism,person,contestant,player,ballplayer
+basketball team,entity,abstraction,group,social_group,organization,unit,team,basketball_team
+beginner driver,entity,physical_entity,causal_agent,operator,driver
+football player,entity,physical_entity,causal_agent,person,contestant,athlete,football_player
+football player,entity,physical_entity,object,whole,living_thing,organism,person,contestant,athlete,football_player
+football player,entity,physical_entity,causal_agent,person,contestant,player,football_player
+football player,entity,physical_entity,object,whole,living_thing,organism,person,contestant,player,football_player
+male chauvinist,entity,physical_entity,causal_agent,person,advocate,partisan,bigot,antifeminist,male_chauvinist
+male chauvinist,entity,physical_entity,object,whole,living_thing,organism,person,advocate,partisan,bigot,antifeminist,male_chauvinist
+plastic surgeon,entity,physical_entity,causal_agent,person,adult,professional,health_professional,medical_practitioner,doctor,surgeon,cosmetic_surgeon
+plastic surgeon,entity,physical_entity,object,whole,living_thing,organism,person,adult,professional,health_professional,medical_practitioner,doctor,surgeon,cosmetic_surgeon
+prisoner of war,entity,physical_entity,causal_agent,person,unfortunate,prisoner,prisoner_of_war
+prisoner of war,entity,physical_entity,object,whole,living_thing,organism,person,unfortunate,prisoner,prisoner_of_war
+student teacher,entity,physical_entity,causal_agent,person,enrollee,student,collegian,college_student,student_teacher
+student teacher,entity,physical_entity,object,whole,living_thing,organism,person,enrollee,student,collegian,college_student,student_teacher
+systems analyst,entity,physical_entity,causal_agent,person,expert,analyst,systems_analyst
+systems analyst,entity,physical_entity,object,whole,living_thing,organism,person,expert,analyst,systems_analyst
+blood relation,entity,physical_entity,causal_agent,person,relative,blood_relation
+blood relation,entity,physical_entity,object,whole,living_thing,organism,person,relative,blood_relation
+blood relative,entity,physical_entity,causal_agent,person,relative,blood_relation
+blood relative,entity,physical_entity,object,whole,living_thing,organism,person,relative,blood_relation
+fellow citizen,entity,physical_entity,causal_agent,person,national,citizen
+fellow citizen,entity,physical_entity,object,whole,living_thing,organism,person,national,citizen
+migrant worker,entity,physical_entity,causal_agent,person,worker
+migrant worker,entity,physical_entity,object,whole,living_thing,organism,person,worker
+native speaker,entity,physical_entity,causal_agent,person,communicator,articulator,speaker,native_speaker
+native speaker,entity,physical_entity,object,whole,living_thing,organism,person,communicator,articulator,speaker,native_speaker
+prime minister,entity,physical_entity,causal_agent,person,communicator,negotiator,representative,head_of_state,prime_minister
+prime minister,entity,physical_entity,object,whole,living_thing,organism,person,communicator,negotiator,representative,head_of_state,prime_minister
+security force,entity,abstraction,group,social_group,organization,force,security_force
+security guard,entity,physical_entity,causal_agent,person,preserver,defender,guard,watchman
+security guard,entity,physical_entity,object,whole,living_thing,organism,person,preserver,defender,guard,watchman
+senior citizen,entity,physical_entity,causal_agent,person,adult,oldster
+senior citizen,entity,physical_entity,object,whole,living_thing,organism,person,adult,oldster
+silent partner,entity,physical_entity,causal_agent,person,partner,silent_partner
+silent partner,entity,physical_entity,object,whole,living_thing,organism,person,partner,silent_partner
+welfare worker,entity,physical_entity,causal_agent,person,worker,employee,public_servant,social_worker
+welfare worker,entity,physical_entity,object,whole,living_thing,organism,person,worker,employee,public_servant,social_worker
+ballet dancer,entity,physical_entity,causal_agent,person,entertainer,performer,dancer,ballet_dancer
+ballet dancer,entity,physical_entity,object,whole,living_thing,organism,person,entertainer,performer,dancer,ballet_dancer
+baseball team,entity,abstraction,group,social_group,organization,unit,team,baseball_team
+brain surgeon,entity,physical_entity,causal_agent,person,adult,professional,health_professional,medical_practitioner,doctor,surgeon,neurosurgeon
+brain surgeon,entity,physical_entity,object,whole,living_thing,organism,person,adult,professional,health_professional,medical_practitioner,doctor,surgeon,neurosurgeon
+child prodigy,entity,physical_entity,causal_agent,person,juvenile,child,child_prodigy
+child prodigy,entity,physical_entity,object,whole,living_thing,organism,person,juvenile,child,child_prodigy
+child prodigy,entity,physical_entity,causal_agent,person,intellectual,genius,prodigy,child_prodigy
+child prodigy,entity,physical_entity,object,whole,living_thing,organism,person,intellectual,genius,prodigy,child_prodigy
+civil servant,entity,physical_entity,causal_agent,person,worker,skilled_worker,official,civil_servant
+civil servant,entity,physical_entity,object,whole,living_thing,organism,person,worker,skilled_worker,official,civil_servant
+dermatologist,entity,physical_entity,causal_agent,person,adult,professional,health_professional,medical_practitioner,doctor,specialist,dermatologist
+dermatologist,entity,physical_entity,object,whole,living_thing,organism,person,adult,professional,health_professional,medical_practitioner,doctor,specialist,dermatologist
+family doctor,entity,physical_entity,causal_agent,person,adult,professional,health_professional,medical_practitioner,doctor,general_practitioner,family_doctor
+family doctor,entity,physical_entity,object,whole,living_thing,organism,person,adult,professional,health_professional,medical_practitioner,doctor,general_practitioner,family_doctor
+football team,entity,abstraction,group,social_group,organization,unit,team,football_team
+foster parent,entity,physical_entity,causal_agent,person,preserver,defender,foster-parent
+foster parent,entity,physical_entity,object,whole,living_thing,organism,person,preserver,defender,foster-parent
+heavy drinker,entity,physical_entity,causal_agent,person,user,consumer,drinker
+heavy drinker,entity,physical_entity,object,whole,living_thing,organism,person,user,consumer,drinker
+hostage taker,entity,physical_entity,causal_agent,person,user,consumer,customer,taker
+hostage taker,entity,physical_entity,object,whole,living_thing,organism,person,user,consumer,customer,taker
+market leader,entity,physical_entity,causal_agent,person,leader
+market leader,entity,physical_entity,object,whole,living_thing,organism,person,leader
+private tutor,act,interact,communicate,inform,teach,tutor
+racing driver,entity,physical_entity,causal_agent,operator,driver
+record holder,entity,physical_entity,object,whole,artifact,instrumentality,device,holding_device,holder
+sales manager,entity,physical_entity,causal_agent,person,leader,head,administrator,director
+sales manager,entity,physical_entity,object,whole,living_thing,organism,person,leader,head,administrator,director
+serial killer,entity,physical_entity,causal_agent,person,bad_person,wrongdoer,principal,criminal,murderer,serial_killer
+serial killer,entity,physical_entity,object,whole,living_thing,organism,person,bad_person,wrongdoer,principal,criminal,murderer,serial_killer
+serial killer,entity,physical_entity,causal_agent,person,killer,murderer,serial_killer
+serial killer,entity,physical_entity,object,whole,living_thing,organism,person,killer,murderer,serial_killer
+single father,entity,physical_entity,causal_agent,person,relative,ancestor,progenitor,genitor,parent,father
+single father,entity,physical_entity,object,whole,living_thing,organism,person,relative,ancestor,progenitor,genitor,parent,father
+single mother,entity,physical_entity,causal_agent,person,relative,ancestor,progenitor,genitor,parent,mother
+single mother,entity,physical_entity,object,whole,living_thing,organism,person,relative,ancestor,progenitor,genitor,parent,mother
+single parent,entity,physical_entity,causal_agent,person,relative,ancestor,progenitor,genitor,parent
+single parent,entity,physical_entity,object,whole,living_thing,organism,person,relative,ancestor,progenitor,genitor,parent
+speech writer,entity,physical_entity,causal_agent,person,communicator,writer
+speech writer,entity,physical_entity,object,whole,living_thing,organism,person,communicator,writer
+teenage child,entity,physical_entity,causal_agent,person,juvenile,child
+teenage child,entity,physical_entity,object,whole,living_thing,organism,person,juvenile,child
+tennis player,entity,physical_entity,causal_agent,person,contestant,athlete,tennis_player
+tennis player,entity,physical_entity,object,whole,living_thing,organism,person,contestant,athlete,tennis_player
+tennis player,entity,physical_entity,causal_agent,person,contestant,player,tennis_player
+tennis player,entity,physical_entity,object,whole,living_thing,organism,person,contestant,player,tennis_player
+tour operator,entity,abstraction,relation,mathematical_relation,function,operator
+travel agency,entity,abstraction,group,social_group,organization,enterprise,business,agency,travel_agency
+bank manager,entity,physical_entity,causal_agent,person,leader,head,administrator,director,bank_manager
+bank manager,entity,physical_entity,object,whole,living_thing,organism,person,leader,head,administrator,director,bank_manager
+foster child,entity,physical_entity,causal_agent,person,juvenile,child,foster-child
+foster child,entity,physical_entity,object,whole,living_thing,organism,person,juvenile,child,foster-child
+teenage girl,entity,physical_entity,causal_agent,person,adult,woman,girl
+teenage girl,entity,physical_entity,object,whole,living_thing,organism,person,adult,woman,girl
+teenage girl,entity,physical_entity,causal_agent,person,female,woman,girl
+teenage girl,entity,physical_entity,object,whole,living_thing,organism,person,female,woman,girl
+blood donor,entity,physical_entity,causal_agent,person,good_person,benefactor,donor,blood_donor
+blood donor,entity,physical_entity,object,whole,living_thing,organism,person,good_person,benefactor,donor,blood_donor
+grandfather,entity,physical_entity,causal_agent,person,relative,ancestor,forebear,grandparent,grandfather
+grandfather,entity,physical_entity,object,whole,living_thing,organism,person,relative,ancestor,forebear,grandparent,grandfather
+grandmother,entity,physical_entity,causal_agent,person,relative,ancestor,forebear,grandparent,grandma
+grandmother,entity,physical_entity,object,whole,living_thing,organism,person,relative,ancestor,forebear,grandparent,grandma
+grandparent,entity,physical_entity,causal_agent,person,relative,ancestor,forebear,grandparent
+grandparent,entity,physical_entity,object,whole,living_thing,organism,person,relative,ancestor,forebear,grandparent
+race driver,entity,physical_entity,causal_agent,operator,driver,racer
+soccer team,entity,abstraction,group,social_group,organization,unit,team
+taxi driver,entity,physical_entity,causal_agent,operator,driver
+teenage boy,entity,physical_entity,causal_agent,person,adult,man,boy
+teenage boy,entity,physical_entity,object,whole,living_thing,organism,person,adult,man,boy
+teenage boy,entity,physical_entity,causal_agent,person,male,man,boy
+teenage boy,entity,physical_entity,object,whole,living_thing,organism,person,male,man,boy
+teenage son,entity,physical_entity,causal_agent,person,relative,offspring,child,male_offspring,son
+teenage son,entity,physical_entity,object,whole,living_thing,organism,person,relative,offspring,child,male_offspring,son
+teenage son,entity,physical_entity,causal_agent,person,male,male_offspring,son
+teenage son,entity,physical_entity,object,whole,living_thing,organism,person,male,male_offspring,son
+bus driver,entity,physical_entity,causal_agent,operator,driver,busman
+girlfriend,entity,physical_entity,causal_agent,person,friend,girlfriend
+girlfriend,entity,physical_entity,object,whole,living_thing,organism,person,friend,girlfriend
+girlfriend,entity,physical_entity,causal_agent,person,adult,woman,girlfriend
+girlfriend,entity,physical_entity,object,whole,living_thing,organism,person,adult,woman,girlfriend
+girlfriend,entity,physical_entity,causal_agent,person,female,woman,girlfriend
+girlfriend,entity,physical_entity,object,whole,living_thing,organism,person,female,woman,girlfriend
+journalist,entity,physical_entity,causal_agent,person,communicator,writer,journalist
+journalist,entity,physical_entity,object,whole,living_thing,organism,person,communicator,writer,journalist
+pen friend,entity,physical_entity,causal_agent,person,friend
+pen friend,entity,physical_entity,object,whole,living_thing,organism,person,friend
+researcher,entity,physical_entity,causal_agent,person,scientist,research_worker
+researcher,entity,physical_entity,object,whole,living_thing,organism,person,scientist,research_worker
+room clerk,entity,physical_entity,causal_agent,person,worker,employee,clerk,desk_clerk,room_clerk
+room clerk,entity,physical_entity,object,whole,living_thing,organism,person,worker,employee,clerk,desk_clerk,room_clerk
+supervisor,entity,physical_entity,causal_agent,person,leader,superior,supervisor
+supervisor,entity,physical_entity,object,whole,living_thing,organism,person,leader,superior,supervisor
+task force,entity,abstraction,group,social_group,organization,unit,military_unit,task_force
+tour guide,entity,physical_entity,causal_agent,person,leader,guide,tour_guide
+tour guide,entity,physical_entity,object,whole,living_thing,organism,person,leader,guide,tour_guide
+authority,entity,abstraction,attribute,quality,power,control,authority
+bicyclist,entity,physical_entity,causal_agent,person,traveler,rider,pedaler,cyclist
+bicyclist,entity,physical_entity,object,whole,living_thing,organism,person,traveler,rider,pedaler,cyclist
+boyfriend,entity,physical_entity,causal_agent,person,lover,boyfriend
+boyfriend,entity,physical_entity,object,whole,living_thing,organism,person,lover,boyfriend
+boyfriend,entity,physical_entity,causal_agent,person,adult,man,boyfriend
+boyfriend,entity,physical_entity,object,whole,living_thing,organism,person,adult,man,boyfriend
+boyfriend,entity,physical_entity,causal_agent,person,male,man,boyfriend
+boyfriend,entity,physical_entity,object,whole,living_thing,organism,person,male,man,boyfriend
+Brazilian,entity,physical_entity,causal_agent,person,inhabitant,american,south_american,brazilian
+Brazilian,entity,physical_entity,object,whole,living_thing,organism,person,inhabitant,american,south_american,brazilian
+cosigner,entity,physical_entity,causal_agent,person,signer,cosigner
+cosigner,entity,physical_entity,object,whole,living_thing,organism,person,signer,cosigner
+colleague,entity,physical_entity,causal_agent,person,peer,associate,colleague
+colleague,entity,physical_entity,object,whole,living_thing,organism,person,peer,associate,colleague
+conductor,entity,physical_entity,causal_agent,person,creator,artist,musician,conductor
+conductor,entity,physical_entity,object,whole,living_thing,organism,person,creator,artist,musician,conductor
+dead beat,entity,physical_entity,object,location,line,path,beat
+FBI agent,entity,physical_entity,causal_agent,person,communicator,negotiator,representative,agent,government_agent,g-man
+FBI agent,entity,physical_entity,object,whole,living_thing,organism,person,communicator,negotiator,representative,agent,government_agent,g-man
+foreigner,entity,physical_entity,causal_agent,person,traveler,foreigner
+foreigner,entity,physical_entity,object,whole,living_thing,organism,person,traveler,foreigner
+Frenchman,entity,physical_entity,causal_agent,person,inhabitant,european,frenchman
+Frenchman,entity,physical_entity,object,whole,living_thing,organism,person,inhabitant,european,frenchman
+neighbour,entity,physical_entity,causal_agent,person,neighbor
+neighbour,entity,physical_entity,object,whole,living_thing,organism,person,neighbor
+passenger,entity,physical_entity,causal_agent,person,traveler,passenger
+passenger,entity,physical_entity,object,whole,living_thing,organism,person,traveler,passenger
+policeman,entity,physical_entity,causal_agent,person,preserver,defender,lawman,policeman
+policeman,entity,physical_entity,object,whole,living_thing,organism,person,preserver,defender,lawman,policeman
+repairman,entity,physical_entity,causal_agent,person,worker,skilled_worker,mender,repairman
+repairman,entity,physical_entity,object,whole,living_thing,organism,person,worker,skilled_worker,mender,repairman
+rock star,entity,physical_entity,causal_agent,person,entertainer,performer,musician,rocker,rock_star
+rock star,entity,physical_entity,object,whole,living_thing,organism,person,entertainer,performer,musician,rocker,rock_star
+rock star,entity,physical_entity,causal_agent,person,entertainer,performer,musician,singer,rock_star
+rock star,entity,physical_entity,object,whole,living_thing,organism,person,entertainer,performer,musician,singer,rock_star
+scientist,entity,physical_entity,causal_agent,person,scientist
+scientist,entity,physical_entity,object,whole,living_thing,organism,person,scientist
+therapist,entity,physical_entity,causal_agent,person,expert,therapist
+therapist,entity,physical_entity,object,whole,living_thing,organism,person,expert,therapist
+tough guy,entity,physical_entity,causal_agent,person,bad_person,wrongdoer,attacker,bully,tough_guy
+tough guy,entity,physical_entity,object,whole,living_thing,organism,person,bad_person,wrongdoer,attacker,bully,tough_guy
+beginner,entity,physical_entity,causal_agent,person,unskilled_person,novice
+beginner,entity,physical_entity,object,whole,living_thing,organism,person,unskilled_person,novice
+Canadian,entity,physical_entity,causal_agent,person,inhabitant,american,north_american,canadian
+Canadian,entity,physical_entity,object,whole,living_thing,organism,person,inhabitant,american,north_american,canadian
+coworker,No tag avaliable
+daughter,entity,physical_entity,causal_agent,person,relative,offspring,child,female_offspring,daughter
+daughter,entity,physical_entity,object,whole,living_thing,organism,person,relative,offspring,child,female_offspring,daughter
+daughter,entity,physical_entity,causal_agent,person,female,female_offspring,daughter
+daughter,entity,physical_entity,object,whole,living_thing,organism,person,female,female_offspring,daughter
+Dutchman,entity,physical_entity,causal_agent,person,inhabitant,european,netherlander
+Dutchman,entity,physical_entity,object,whole,living_thing,organism,person,inhabitant,european,netherlander
+European,entity,physical_entity,causal_agent,person,inhabitant,european
+European,entity,physical_entity,object,whole,living_thing,organism,person,inhabitant,european
+follower,entity,physical_entity,causal_agent,person,follower
+follower,entity,physical_entity,object,whole,living_thing,organism,person,follower
+Japanese,entity,physical_entity,causal_agent,person,inhabitant,asian,japanese
+Japanese,entity,physical_entity,object,whole,living_thing,organism,person,inhabitant,asian,japanese
+Japanese,entity,physical_entity,causal_agent,person,person_of_color,asian,japanese
+Japanese,entity,physical_entity,object,whole,living_thing,organism,person,person_of_color,asian,japanese
+murderer,entity,physical_entity,causal_agent,person,bad_person,wrongdoer,principal,criminal,murderer
+murderer,entity,physical_entity,object,whole,living_thing,organism,person,bad_person,wrongdoer,principal,criminal,murderer
+murderer,entity,physical_entity,causal_agent,person,killer,murderer
+murderer,entity,physical_entity,object,whole,living_thing,organism,person,killer,murderer
+neighbor,entity,physical_entity,causal_agent,person,neighbor
+neighbor,entity,physical_entity,object,whole,living_thing,organism,person,neighbor
+relative,entity,physical_entity,causal_agent,person,relative
+relative,entity,physical_entity,object,whole,living_thing,organism,person,relative
+roommate,entity,physical_entity,causal_agent,person,friend,roommate
+roommate,entity,physical_entity,object,whole,living_thing,organism,person,friend,roommate
+Spaniard,entity,physical_entity,causal_agent,person,inhabitant,european,spaniard
+Spaniard,entity,physical_entity,object,whole,living_thing,organism,person,inhabitant,european,spaniard
+stranger,entity,physical_entity,causal_agent,person,traveler,entrant,intruder,stranger
+stranger,entity,physical_entity,object,whole,living_thing,organism,person,traveler,entrant,intruder,stranger
+stranger,entity,physical_entity,causal_agent,person,unwelcome_person,intruder,stranger
+stranger,entity,physical_entity,object,whole,living_thing,organism,person,unwelcome_person,intruder,stranger
+sufferer,entity,physical_entity,causal_agent,person,unfortunate,sick_person
+sufferer,entity,physical_entity,object,whole,living_thing,organism,person,unfortunate,sick_person
+traveler,entity,physical_entity,causal_agent,person,traveler
+traveler,entity,physical_entity,object,whole,living_thing,organism,person,traveler
+waitress,entity,physical_entity,causal_agent,person,worker,employee,dining-room_attendant,waiter,waitress
+waitress,entity,physical_entity,object,whole,living_thing,organism,person,worker,employee,dining-room_attendant,waiter,waitress
+wise guy,entity,physical_entity,causal_agent,person,unwelcome_person,unpleasant_person,upstart,wise_guy
+wise guy,entity,physical_entity,object,whole,living_thing,organism,person,unwelcome_person,unpleasant_person,upstart,wise_guy
+Youtuber,No tag avaliable
+brother,entity,physical_entity,causal_agent,person,relative,kinsman,male_sibling,brother
+brother,entity,physical_entity,object,whole,living_thing,organism,person,relative,kinsman,male_sibling,brother
+burglar,entity,physical_entity,causal_agent,person,bad_person,wrongdoer,principal,criminal,thief,burglar
+burglar,entity,physical_entity,object,whole,living_thing,organism,person,bad_person,wrongdoer,principal,criminal,thief,burglar
+Chinese,entity,abstraction,communication,language,natural_language,sino-tibetan,sinitic,chinese
+citizen,entity,physical_entity,causal_agent,person,national,citizen
+citizen,entity,physical_entity,object,whole,living_thing,organism,person,national,citizen
+culprit,entity,physical_entity,causal_agent,person,bad_person,wrongdoer,perpetrator
+culprit,entity,physical_entity,object,whole,living_thing,organism,person,bad_person,wrongdoer,perpetrator
+husband,entity,physical_entity,causal_agent,person,domestic_partner,spouse,husband
+husband,entity,physical_entity,object,whole,living_thing,organism,person,domestic_partner,spouse,husband
+husband,entity,physical_entity,causal_agent,person,relative,spouse,husband
+husband,entity,physical_entity,object,whole,living_thing,organism,person,relative,spouse,husband
+manager,entity,physical_entity,causal_agent,person,leader,head,administrator,director
+manager,entity,physical_entity,object,whole,living_thing,organism,person,leader,head,administrator,director
+patient,entity,physical_entity,causal_agent,person,case,patient
+patient,entity,physical_entity,object,whole,living_thing,organism,person,case,patient
+patient,entity,physical_entity,causal_agent,person,unfortunate,sick_person,patient
+patient,entity,physical_entity,object,whole,living_thing,organism,person,unfortunate,sick_person,patient
+plumber,entity,physical_entity,causal_agent,person,worker,skilled_worker,craftsman,plumber
+plumber,entity,physical_entity,object,whole,living_thing,organism,person,worker,skilled_worker,craftsman,plumber
+postman,entity,physical_entity,causal_agent,person,worker,employee,deliveryman,mailman
+postman,entity,physical_entity,object,whole,living_thing,organism,person,worker,employee,deliveryman,mailman
+speaker,entity,physical_entity,causal_agent,person,communicator,articulator,speaker
+speaker,entity,physical_entity,object,whole,living_thing,organism,person,communicator,articulator,speaker
+stylist,entity,physical_entity,causal_agent,person,creator,artist,stylist
+stylist,entity,physical_entity,object,whole,living_thing,organism,person,creator,artist,stylist
+swimmer,entity,physical_entity,causal_agent,person,contestant,athlete,swimmer
+swimmer,entity,physical_entity,object,whole,living_thing,organism,person,contestant,athlete,swimmer
+tourist,entity,physical_entity,causal_agent,person,traveler,tourist
+tourist,entity,physical_entity,object,whole,living_thing,organism,person,traveler,tourist
+Briton,entity,physical_entity,causal_agent,person,inhabitant,european,britisher
+Briton,entity,physical_entity,object,whole,living_thing,organism,person,inhabitant,european,britisher
+cousin,entity,physical_entity,causal_agent,person,relative,cousin
+cousin,entity,physical_entity,object,whole,living_thing,organism,person,relative,cousin
+driver,entity,physical_entity,causal_agent,operator,driver
+family,entity,abstraction,group,social_group,organization,unit,family
+father,entity,physical_entity,causal_agent,person,relative,ancestor,progenitor,genitor,parent,father
+father,entity,physical_entity,object,whole,living_thing,organism,person,relative,ancestor,progenitor,genitor,parent,father
+friend,entity,physical_entity,causal_agent,person,friend
+friend,entity,physical_entity,object,whole,living_thing,organism,person,friend
+German,entity,physical_entity,causal_agent,person,inhabitant,european,german
+German,entity,physical_entity,object,whole,living_thing,organism,person,inhabitant,european,german
+killer,entity,physical_entity,causal_agent,person,killer
+killer,entity,physical_entity,object,whole,living_thing,organism,person,killer
+leader,entity,physical_entity,causal_agent,person,leader
+leader,entity,physical_entity,object,whole,living_thing,organism,person,leader
+member,entity,physical_entity,causal_agent,person,peer,associate,member
+member,entity,physical_entity,object,whole,living_thing,organism,person,peer,associate,member
+mother,entity,physical_entity,causal_agent,person,relative,ancestor,progenitor,genitor,parent,mother
+mother,entity,physical_entity,object,whole,living_thing,organism,person,relative,ancestor,progenitor,genitor,parent,mother
+parent,entity,physical_entity,causal_agent,person,relative,ancestor,progenitor,genitor,parent
+parent,entity,physical_entity,object,whole,living_thing,organism,person,relative,ancestor,progenitor,genitor,parent
+person,entity,physical_entity,causal_agent,person
+person,entity,physical_entity,object,whole,living_thing,organism,person
+player,entity,physical_entity,causal_agent,person,contestant,player
+player,entity,physical_entity,object,whole,living_thing,organism,person,contestant,player
+porter,entity,physical_entity,causal_agent,person,worker,employee,workman,laborer,porter
+porter,entity,physical_entity,object,whole,living_thing,organism,person,worker,employee,workman,laborer,porter
+ranger,entity,physical_entity,causal_agent,person,preserver,defender,lawman,texas_ranger
+ranger,entity,physical_entity,object,whole,living_thing,organism,person,preserver,defender,lawman,texas_ranger
+robber,entity,physical_entity,causal_agent,person,bad_person,wrongdoer,principal,criminal,thief,robber
+robber,entity,physical_entity,object,whole,living_thing,organism,person,bad_person,wrongdoer,principal,criminal,thief,robber
+singer,entity,physical_entity,causal_agent,person,entertainer,performer,musician,singer
+singer,entity,physical_entity,object,whole,living_thing,organism,person,entertainer,performer,musician,singer
+sister,entity,physical_entity,causal_agent,person,relative,kinswoman,female_sibling,sister
+sister,entity,physical_entity,object,whole,living_thing,organism,person,relative,kinswoman,female_sibling,sister
+typist,entity,physical_entity,causal_agent,person,worker,employee,typist
+typist,entity,physical_entity,object,whole,living_thing,organism,person,worker,employee,typist
+waiter,entity,physical_entity,causal_agent,person,worker,employee,dining-room_attendant,waiter
+waiter,entity,physical_entity,object,whole,living_thing,organism,person,worker,employee,dining-room_attendant,waiter
+worker,entity,physical_entity,causal_agent,person,worker
+worker,entity,physical_entity,object,whole,living_thing,organism,person,worker
+black,entity,abstraction,attribute,property,visual_property,color,achromatic_color,black
+child,entity,physical_entity,causal_agent,person,juvenile,child
+child,entity,physical_entity,object,whole,living_thing,organism,person,juvenile,child
+creep,entity,physical_entity,causal_agent,person,unwelcome_person,unpleasant_person,creep
+creep,entity,physical_entity,object,whole,living_thing,organism,person,unwelcome_person,unpleasant_person,creep
+crowd,entity,abstraction,group,social_group,gathering,crowd
+guest,entity,physical_entity,causal_agent,person,traveler,visitor,guest
+guest,entity,physical_entity,object,whole,living_thing,organism,person,traveler,visitor,guest
+human,entity,physical_entity,object,whole,living_thing,organism,animal,chordate,vertebrate,mammal,placental,primate,hominid,homo
+loser,entity,physical_entity,causal_agent,person,contestant,loser
+loser,entity,physical_entity,object,whole,living_thing,organism,person,contestant,loser
+pilot,entity,physical_entity,causal_agent,person,worker,skilled_worker,aviator,pilot
+pilot,entity,physical_entity,object,whole,living_thing,organism,person,worker,skilled_worker,aviator,pilot
+racer,entity,physical_entity,causal_agent,operator,driver,racer
+thief,entity,physical_entity,causal_agent,person,bad_person,wrongdoer,principal,criminal,thief
+thief,entity,physical_entity,object,whole,living_thing,organism,person,bad_person,wrongdoer,principal,criminal,thief
+widow,entity,physical_entity,causal_agent,person,adult,woman,widow
+widow,entity,physical_entity,object,whole,living_thing,organism,person,adult,woman,widow
+widow,entity,physical_entity,causal_agent,person,female,woman,widow
+widow,entity,physical_entity,object,whole,living_thing,organism,person,female,woman,widow
+woman,entity,physical_entity,causal_agent,person,adult,woman
+woman,entity,physical_entity,object,whole,living_thing,organism,person,adult,woman
+woman,entity,physical_entity,causal_agent,person,female,woman
+woman,entity,physical_entity,object,whole,living_thing,organism,person,female,woman
+baby,entity,physical_entity,causal_agent,person,relative,offspring,child,baby
+baby,entity,physical_entity,object,whole,living_thing,organism,person,relative,offspring,child,baby
+girl,entity,physical_entity,causal_agent,person,adult,woman,girl
+girl,entity,physical_entity,object,whole,living_thing,organism,person,adult,woman,girl
+girl,entity,physical_entity,causal_agent,person,female,woman,girl
+girl,entity,physical_entity,object,whole,living_thing,organism,person,female,woman,girl
+team,entity,abstraction,group,social_group,organization,unit,team
+twin,entity,physical_entity,causal_agent,person,relative,sibling,twin
+twin,entity,physical_entity,object,whole,living_thing,organism,person,relative,sibling,twin
+wife,entity,physical_entity,causal_agent,person,domestic_partner,spouse,wife
+wife,entity,physical_entity,object,whole,living_thing,organism,person,domestic_partner,spouse,wife
+wife,entity,physical_entity,causal_agent,person,relative,spouse,wife
+wife,entity,physical_entity,object,whole,living_thing,organism,person,relative,spouse,wife
+wife,entity,physical_entity,causal_agent,person,adult,woman,wife
+wife,entity,physical_entity,object,whole,living_thing,organism,person,adult,woman,wife
+wife,entity,physical_entity,causal_agent,person,female,woman,wife
+wife,entity,physical_entity,object,whole,living_thing,organism,person,female,woman,wife
+boy,entity,physical_entity,causal_agent,person,male,male_child
+boy,entity,physical_entity,object,whole,living_thing,organism,person,male,male_child
+guy,entity,physical_entity,causal_agent,person,adult,man,guy
+guy,entity,physical_entity,object,whole,living_thing,organism,person,adult,man,guy
+guy,entity,physical_entity,causal_agent,person,male,man,guy
+guy,entity,physical_entity,object,whole,living_thing,organism,person,male,man,guy
+kid,entity,physical_entity,causal_agent,person,juvenile,child
+kid,entity,physical_entity,object,whole,living_thing,organism,person,juvenile,child
+man,entity,physical_entity,causal_agent,person,adult,man
+man,entity,physical_entity,object,whole,living_thing,organism,person,adult,man
+man,entity,physical_entity,causal_agent,person,male,man
+man,entity,physical_entity,object,whole,living_thing,organism,person,male,man
+son,entity,physical_entity,causal_agent,person,relative,offspring,child,male_offspring,son
+son,entity,physical_entity,object,whole,living_thing,organism,person,relative,offspring,child,male_offspring,son
+son,entity,physical_entity,causal_agent,person,male,male_offspring,son
+son,entity,physical_entity,object,whole,living_thing,organism,person,male,male_offspring,son
+doctor,entity,physical_entity,causal_agent,person,adult,professional,health_professional,medical_practitioner,doctor
+doctor,entity,physical_entity,object,whole,living_thing,organism,person,adult,professional,health_professional,medical_practitioner,doctor
+nurse,entity,physical_entity,causal_agent,person,adult,professional,health_professional,nurse
+nurse,entity,physical_entity,object,whole,living_thing,organism,person,adult,professional,health_professional,nurse
+lawyer,entity,physical_entity,causal_agent,person,adult,professional,lawyer
+lawyer,entity,physical_entity,object,whole,living_thing,organism,person,adult,professional,lawyer
+legal adviser,entity,physical_entity,causal_agent,person,expert,authority,adviser
+legal adviser,entity,physical_entity,object,whole,living_thing,organism,person,expert,authority,adviser
+firefighter,entity,physical_entity,causal_agent,person,preserver,defender,fireman
+firefighter,entity,physical_entity,object,whole,living_thing,organism,person,preserver,defender,fireman
